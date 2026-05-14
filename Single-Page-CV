@@ -1,0 +1,83 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Single Page CV</title>
+        <link rel="stylesheet" href="style.css">
+        <!-- SEO Meta Tags -->
+        <meta name="description" content="A single page cv of Joben Aurelio, an aspiring fullstack developer and devops engineer.">
+        <meta name="keywords" content="Joben Aurelio, CV, Resume, Fullstack Developer, DevOps Engineer">
+        <meta name="author" content="Joben Aurelio">
+         <!-- Open Graph Meta Tags for Social Media Sharing -->
+          <meta property="og:title" content="Single Page CV - Joben Aurelio">
+          <meta property="og:description" content="A single page cv of Joben Aurelio, an aspiring fullstack developer and devops engineer.">
+          <meta property="og type" content="website">
+          <meta property="og:url" content="https://jobenaurelio.github.io/Single-Page-CV/">
+    </head>
+
+    <body>
+        <header>
+            <h1>Joben Aurelio</h1>
+            <h2>Aspiring Fullstack Developer and DevOps Engineer</h2>
+            <div class="contact info">
+                <address>
+                    103A Kalayaan Avenue<br />
+                    Barangay Cembo<br />
+                    Taguig City, Philippines, 1214<br />
+                    <p>098123765</p>
+                    <p>no_reply@example.com</p>
+                </address>
+            </div>
+        </header>
+
+        <main>
+            <section class="skills">
+                <h3 class="section-title">Skills</h3>
+                <p>
+                    HTML, CSS, JavaScript, TypeScript, React, Node.js, MongoDB, Git, GitHub,
+                    Agile Methodologies, Accessibility, Management, Figma, Jira
+                </p>
+            </section>
+
+            <section class="education">
+                <h3 class="section-title">Education</h3>
+                <p>
+                    Bachelor of Science in Civil Engineering<br />
+                    Rizal Technological University<br />
+                    2022-2026
+                </p>
+                <p>
+                    I have experience in no code web design and development 
+                    using Webflow and I also gained a certificate for web development using Webflow.
+                </p>
+            </section>
+
+            <section class="experience">
+                <h3 class="section-title">Experience</h3>
+                <p>
+                    Adsylo, San Diego, California, United States<br />
+                    Web Designer and Developer
+                    2024-2025
+                    <ul>
+                        <li>Designed and developed responsive websites using Webflow, ensuring optimal user experience across devices.</li>
+                        <li>Collaborated with clients to understand their requirements and translate them into visually appealing and functional web designs.</li>
+                        <li>Implemented SEO best practices to improve website visibility and search engine rankings.</li>
+                        <li>Conducted regular website maintenance and updates to ensure security and performance.</li>
+                    </ul>
+                </p>
+                <p>
+                    Skills: Basic HTML and CSS, Responsive Web Design, UI/UX Design, SEO, Client relations.
+                </p>
+            </section>
+
+            <section class="internet">
+                <h3 class="section-title">Online Presence</h3>
+                <p>
+                    <href="https://www.linkedin.com/in/joben-aurelio-136467286/">LinkedIn</href>"
+                    <href="https://github.com/calamansea8">GitHub</href>
+                </p>
+            </section>
+        </main>
+    </body>
+    </html>
